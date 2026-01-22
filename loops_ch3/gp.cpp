@@ -8,7 +8,7 @@ int a=5;
 for (int i = 0; i < x; i++)
 {
     cout<<a<<" ";
-    a=a*2;
+    a=a*3;
 }
 
 }
